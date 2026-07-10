@@ -343,7 +343,7 @@ The application uses:
 assets/login.png
 ```
 
-![Login](assets/Screenshot 2026-07-10 124627.png)
+![Login](assets/Demo.png)
 
 ---
 
@@ -353,7 +353,7 @@ assets/login.png
 assets/register.png
 ```
 
-![Register](assets/Screenshot 2026-07-10 113202.png)
+![Register](assets/Demo1.png)
 
 ---
 
@@ -364,8 +364,7 @@ assets/register.png
 assets/add-note.png
 ```
 
-![Add Note](assets/Screenshot 2026-07-10 113306
-.png)
+![Add Note](assets/Demo3.png)
 
 ---
 
